@@ -1,0 +1,2 @@
+#!/bin/bash
+python feb.py && python mar.py && python apr.py && python may.py && python jun.py && python jul.py && python aug.py && python sep.py && python oct.py && python nov.py && python dec.py 
